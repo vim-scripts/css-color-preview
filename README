@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2539
+
+使用vim写CSS代码，那些乱乱的颜色代码很难记忆吧。可以将6位或者3位的十六进制代码表示的颜色显示出来。从本站下载了css color preview，但是我发现这个东西在7.2上面不能用，于是把其中的代码复制到了css.vim中，整合成了这个，所有代码均是从css color preview当中剪切然后粘贴到css.vim中的。 
+如果不能显示的话，请使用:set t_Co=256，需要256色。
+css color preview 原版见
+http://www.vim.org/scripts/script.php?script_id=2150
